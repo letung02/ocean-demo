@@ -1,0 +1,422 @@
+
+body{
+    font-family: 'Rubik', sans-serif;
+}
+wrapper{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header{
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    
+}
+.menu-item{
+    margin-left: 20px ;
+    
+}
+.menu-link{
+    text-decoration: none;
+    color: black;
+}
+
+
+.header_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.sign{
+    margin-left:  30px;
+    font-weight: bold;
+    }
+.sign-up{
+    color: #F53855 ;
+    border: 1px solid #F53855 ;
+    border-radius: 50px ;
+    padding: 10px 40px;
+    font-weight: bold;
+    text-decoration:none ;
+}
+.sign-in{
+    text-decoration: none;
+    color: black;
+}
+.tieude{
+    font-size: 40px;
+    font-weight: 670;
+    padding-bottom: 40px;
+    font-family: 'Rubik'
+}
+.noidung{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 60px;
+}
+.start{
+    color:#FFFFFF;
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 15px 77.5px;
+    font-weight: bold;
+    background-color: #F53838;
+    font-size: 13px;
+    text-decoration: none;
+    box-shadow:0px 28px 40px -10px #f5383874;
+
+    
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.banner_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner_content{
+    margin-right: 20px;
+}
+.header_img{
+   
+    margin-left: 20px;
+}
+.header_img imgg{
+    max-width: 565px;
+}
+.banner1_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow:  0px 20px 50px -55px #0D1025
+}
+.banner1_item{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 30px 110px;
+    margin: 20px 20px;
+    
+}
+.banner_info{
+    padding: 0 30px;
+}
+.banner1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 115px;
+}
+.boder{
+    border-right-style: solid;
+    border-color: #EEEFF2;
+    
+}
+/* trang 2 */
+.banner2_trang2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+    
+    gap:0 170px
+}
+.tieude1{
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px; 
+     
+}
+.banner2_text{
+    padding-bottom: 160px;
+    
+    
+}
+.noidung2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    padding-top: 20px;
+}
+.banner2_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.anh1{
+    padding-bottom: 230px;
+}
+.banner2_anh2{
+    display: flex;
+    align-items: center;
+    padding-top: 20px ;
+    
+}
+.text1{
+    padding-left: 10.08px;
+}
+/* trang 3 */
+.h1t3{
+    text-align: center;
+}
+.banner3_trang3{
+    text-align: center;
+}
+.banner3p2_trang3{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.banner3_noidung3{
+    display: flex;
+    align-items: center;
+    gap: 0 20px ;
+    padding-top: 20px;
+   
+}
+.text2{
+    text-align: center;
+    padding-top: 30px;
+
+}
+.box1{
+    display: flex;
+    padding-top: 97.84px;
+    padding-left: 63px;
+    padding-right: 63px;
+    padding-bottom: 50px;
+    flex-direction: column;
+    border: 2px solid #DDDDDD  ;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+
+}
+.bo3:hover{
+    border: 2px solid 
+    #F53838;
+}
+.anh_nd{
+    padding-top: 30px;
+}
+.free_box1{
+    text-align: center;
+    font-Size:25px;
+    Line-height:30px;
+    justify-content: center;
+    padding-bottom: 20px;
+    display: flex;
+    
+}
+.select_box1{
+    text-align: center;
+    padding: 13px 62.94px ;
+    border: 2px solid #F53838  ;
+    border-radius: 50px;
+    color:  #F53838;
+    
+}
+
+
+.text3{
+    margin-top: auto;
+    padding-top: 80px;
+    align-items: center;
+    
+
+}
+
+.select_box1:hover{
+    color: #FFFFFF ;
+    background-color:#F53838;
+
+}
+/* trang 4 */
+.h1t4{
+    text-align: center;
+    font-size: 35px;
+}
+.pt4{
+    text-align: center;
+    padding-top: 20px; 
+}
+.banner4{
+    padding-top: 149.55px;
+}
+.banner4_anht4{
+    padding-top: 155.81px;
+} 
+.banner_icont4{
+    padding-top: 29.35px;
+}
+/* trang5 */
+.h1t5{
+    text-align: center;
+}
+.pt5{
+    text-align: center;
+    padding-top: 20px; 
+}
+.icont5{
+    color: 
+    #FEA250;
+}
+.icont5 p {
+   color: #0B132A;
+   padding: 10px 10px;
+}
+.anh_ndt5{
+    display: flex;
+    align-items: center;   
+}
+.icont5{
+    display: flex;
+    align-items: center;
+    padding-left: 80px;
+}
+.ten_t5{
+    margin-left: 20px;
+    font-size: 18px;
+}
+.banner5p2_trang5{
+    display: flex; 
+   
+    justify-content: space-between;
+    padding-top: 60px;  
+}
+.noidung_b1{
+    max-width: 340px;
+    padding-top: 20px;
+}
+.box2{
+   
+     border: 2px solid #DDDDDD;
+     padding:30px 10px ;
+    border-radius: 10px;
+}
+.box2:hover{
+    border: 2px solid 
+    #F53838;
+}
+.bodert5{
+  display: flex; 
+ align-items: center;
+  
+}
+.hinhtron{
+    margin-left: 15px;
+}
+.banner5p3_trang5{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 81.75px;
+    padding-bottom: 88.28px;
+}
+.muiten i {
+    border: 2px solid #F53838;
+    padding:15px 16px ;
+    border-radius:50%;
+    margin-left: 20px;
+    color: #F53838;
+    box-shadow: 0 14px 44px rgba(14, 20, 34, 0.08);
+    
+}
+.muiten i:hover{
+    color: #FFFFFF ;
+    background-color:#F53838;
+}
+.muiten{
+    /* padding-right: 150px; */
+}
+/* trang 6 */
+.banner6_trang6{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 123.52px;
+    padding: 58px 70px;
+    box-shadow: rgba(61, 61, 68, 0.2) 0px 7px 29px 0px;;
+    
+}
+.sup_button p{
+   
+    border: 2px solid #F53838;
+    padding:17px 65px ;
+    border-radius:10px;
+    box-shadow:0px 19px 25.29px -10px #f5383874;
+    
+}
+.sup_button p:hover{
+    color: #FFFFFF ;
+    background-color:#F53838
+}
+.noidung_tieudet6{
+    
+  
+}
+
+
+/* trang 7 */
+.noidungt7_p1{
+    color: #4F5665;
+    padding-top: 20px;
+    padding-right: 230px;
+}
+.icon_t7{
+    display: flex;
+    gap:0 20px;
+    padding-top: 30px;
+}
+.icon_t7 i{   
+border-radius:50%;
+box-shadow: rgba(61, 61, 68, 0.2) 0px 7px 29px 0px;
+}
+.fb{
+    padding: 15px 20px;
+    
+}
+.fb2{
+    padding: 15px 17px;
+}
+.logo_noidung{
+    padding-top: 63.5px;
+    
+    display: flex;
+}
+.namvpn{
+    color:#AFB5C0;
+    padding-top: 30px;
+    
+}
+.tung{
+    padding: 0 110px;
+}
+.noidungt7_p1 p{
+    max-width: 340px;
+    padding-top: 26.12px;
+}
+.nd1_t7 p{
+padding-bottom: 10px;
+color: #4F5665;
+}
+.nd1_t7 h4{
+    padding-bottom: 20px;
+    
+}
+.nd1_t7{
+    
+}
